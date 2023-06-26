@@ -1,0 +1,13 @@
+{
+  "contacts": [],
+  "things": [
+    {
+      "name": "coisa1",
+      "description": "olá essa é a coisa 1",
+      "location": "localização da coisa 1",
+      "date": "2023-06-26T17:26:32.466Z",
+      "status": "on",
+      "id": 1
+    }
+  ]
+}
